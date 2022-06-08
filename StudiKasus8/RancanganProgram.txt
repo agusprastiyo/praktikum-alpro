@@ -1,0 +1,5 @@
+inputoutput.cpp :
+memasukkan data array 2 dimensi yang berisikan jenis buku,judul buku, penulis menggunakan perulangan
+
+proses.cpp :
+melakukan pencarian dari data yang telah dimasukkan, jika ditemukan maka akan ditampilkan jenis buku, judul buku dan penilis buku
