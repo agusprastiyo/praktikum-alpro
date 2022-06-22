@@ -1,0 +1,5 @@
+inputoutput.cpp
+memasukkan data untuk 5 data mahasiswa yang berisi Nim dan Nama
+
+proses.cpp
+proses menampilkan 5 data mahasiswa
